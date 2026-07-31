@@ -81,6 +81,7 @@ interface ids used since the first public tag of GDK are documented here.
 - [IXUserDeviceImpl `7d824997-10dc-45ab-86b7-2737767c0bf1`](XUserDeviceImpl/IXUserDeviceImpl.md)
 - [IXUserDeviceImpl2 `0cc6a956-e7e1-4fdf-9341-9d5da649ebc8`](XUserDeviceImpl/IXUserDeviceImpl2.md)
 ### [XUserImpl `01acd177-91f9-4763-a38e-ccbb55ce32e0`](XUserImpl/README.md)
+- [IXUserGamertagImpl `cef4fac0-7676-4a94-a119-4c43f9eb5b74`](XUserImpl/IXUserGamertagImpl.md)
 - [IXUserImpl `01acd177-91f9-4763-a38e-ccbb55ce32e0`](XUserImpl/IXUserImpl.md)
 - [IXUserImpl2 `eb9bf948-18dc-4d82-bbcc-40e0a809c4c0`](XUserImpl/IXUserImpl2.md)
 - [IXUserImpl3 `1bf2f8c5-d507-4e52-bb05-f726d0e71161`](XUserImpl/IXUserImpl3.md)

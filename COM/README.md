@@ -60,6 +60,7 @@ interface ids used since the first public tag of GDK are documented here.
 - [IXPackageImpl `3720de07-e8e4-44a3-ad32-b359e8adbe55`](XPackageImpl/IXPackageImpl.md)
 - [IXPackageImpl2 `f92d8712-2b27-4d8a-bf01-11a6f8e3eb42`](XPackageImpl/IXPackageImpl2.md)
 - [IXPackageImpl3 `e2a4734b-2f4a-456d-aa8f-d065e04fb209`](XPackageImpl/IXPackageImpl3.md)
+- [IXPackageImpl4 `0b9d556e-ab70-43f4-baa0-9999ac4cb040`](XPackageImpl/IXPackageImpl4.md)
 ### [XPersistentLocalStorageImpl `f4faf4d4-2d04-4fce-b3e0-474a713a3e84`](XPersistentLocalStorageImpl/README.md)
 - [IXPersistentLocalStorageImpl `f4faf4d4-2d04-4fce-b3e0-474a713a3e84`](XPersistentLocalStorageImpl/IXPersistentLocalStorageImpl.md)
 - [IXPersistentLocalStorageImpl2 `d29411df-0794-4553-8b27-95fc02d0f75d`](XPersistentLocalStorageImpl/IXPersistentLocalStorageImpl2.md)

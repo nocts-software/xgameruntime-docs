@@ -4,6 +4,12 @@
     <a href="https://discord.gg/ZG774FK4tq">
         <img src="https://img.shields.io/discord/1123890623586504714?logo=discord&style=for-the-badge&color=green&label=Discord" alt="Discord" />
     </a>
+    <a href="https://ko-fi.com/noct1">
+        <img src="https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white&style=for-the-badge" alt="Support on Ko-fi" />
+    </a>
+    <a href="https://www.patreon.com/cw/nocatix">
+        <img src="https://img.shields.io/badge/Patreon-FF424D?logo=patreon&logoColor=white&style=for-the-badge" alt="Support on Patreon" />
+    </a>
     <img src="https://img.shields.io/badge/Documentation-GDK%20Internals-blue?style=for-the-badge" alt="GDK Internals" />
     <img src="https://img.shields.io/badge/Clean--Room-Compliant-success?style=for-the-badge" alt="Clean Room" />
 </p>
@@ -96,6 +102,23 @@ All functional GDK APIs are grouped into 24 distinct COM singleton classes manag
    - [xodus-gaming/xgameruntime-docs](https://github.com/xodus-gaming/xgameruntime-docs)
    - [xodus-gaming/xgameruntime](https://github.com/xodus-gaming/xgameruntime)
    - [xodus-gaming/xodus](https://github.com/xodus-gaming/xodus)
+
+## 🔒 Clean-Room Reverse Engineering & Legal Notice
+
+This documentation repository is maintained strictly for **educational, interoperability, and compatibility research purposes** under clean-room reverse engineering principles:
+
+- **Interoperability Focus**: Documents public COM interfaces, structures, and function signatures of the Microsoft Gaming Runtime (GDK) to enable open-source compatibility layers (such as Wine/Proton).
+- **Zero Proprietary Code**: Contains no proprietary Microsoft binary code, leaked source code, or circumvention material.
+- **No DRM Circumvention**: Does not document or provide methods for bypassing digital rights management or licensing mechanisms.
+
+---
+
+## 💖 Support the Project
+
+If you find this reverse engineering documentation helpful for developing Wine shims or understanding GDK internals, consider supporting the work:
+
+- ☕ **Ko-fi**: [ko-fi.com/noct1](https://ko-fi.com/noct1)
+- 🧡 **Patreon**: [patreon.com/cw/nocatix](https://www.patreon.com/cw/nocatix)
 
 ---
 

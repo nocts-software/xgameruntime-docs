@@ -88,13 +88,19 @@ All functional GDK APIs are grouped into 24 distinct COM singleton classes manag
 
 ---
 
-## 🤝 Sister Projects
-
-- **[Xodus](https://github.com/nocts-software/xodus)**: Native Linux client and package downloader for Xbox Game Pass and Microsoft Store games.
-- **[xgameruntime](https://github.com/nocts-software/xgameruntime)**: Open-source Wine/Proton implementation of `xgameruntime.dll` implementing these specifications.
+## 🤝 Sister Projects & Upstream
+ 
+ - **[Xodus](https://github.com/nocts-software/xodus)** ([upstream](https://github.com/xodus-gaming/xodus)): Native Linux client and package downloader for Xbox Game Pass and Microsoft Store games.
+ - **[xgameruntime](https://github.com/nocts-software/xgameruntime)** ([upstream](https://github.com/xodus-gaming/xgameruntime)): Open-source Wine/Proton implementation of `xgameruntime.dll` implementing these specifications.
+ - **Original Upstream Repositories**:
+   - [xodus-gaming/xgameruntime-docs](https://github.com/xodus-gaming/xgameruntime-docs)
+   - [xodus-gaming/xgameruntime](https://github.com/xodus-gaming/xgameruntime)
+   - [xodus-gaming/xodus](https://github.com/xodus-gaming/xodus)
 
 ---
 
-## 📜 License
+## 📜 License & Acknowledgments
 
 This documentation is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. See [LICENSE](LICENSE) for details.
+
+Special thanks to [xodus-gaming](https://github.com/xodus-gaming) for initial documentation, interface discoveries, and reverse engineering research.

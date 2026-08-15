@@ -99,8 +99,19 @@ All functional GDK APIs are grouped into 24 distinct COM singleton classes manag
 
 ---
 
-## 📜 License & Acknowledgments
+## 📜 License & TL;DR
 
 This documentation is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. See [LICENSE](LICENSE) for details.
 
+### 📋 License Summary (TL;DR)
+
+| ✅ What you CAN do | ❌ What you CANNOT do | ⚠️ What you MUST do |
+|---|---|---|
+| • **Share & Reproduce**: Copy and redistribute documents | • **Exclusive Copyright**: Claim exclusive ownership | • **Disclose Derivative Docs**: Share modifications under GPL-3.0 |
+| • **Adapt & Extend**: Translate, expand, and modify | • **Hold Liable**: Documentation provided without warranty | • **Attribute Authors**: Credit original authors & researchers |
+| • **Commercial Reference**: Reference in commercial projects | • **Restrict Access**: Place under proprietary paywalls | • **Include Notice**: Retain license and copyright notices |
+
+---
+
+### Acknowledgments
 Special thanks to [xodus-gaming](https://github.com/xodus-gaming) for initial documentation, interface discoveries, and reverse engineering research.

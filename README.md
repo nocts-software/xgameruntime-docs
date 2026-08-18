@@ -1,4 +1,5 @@
 <h1 align="center">xgameruntime-docs</h1>
+<p align="center"><strong>Fork of <a href="https://github.com/xodus-gaming">xodus-gaming</a><strong></</p>
 <p align="center"><strong>Microsoft Gaming Runtime (GDK) Technical Documentation & Reverse Engineering Specifications</strong></p>
 <p align="center">
     <a href="https://discord.gg/ZG774FK4tq">
